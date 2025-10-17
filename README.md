@@ -44,11 +44,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif" width="300" /><br />
+      <img src="https://media.tenor.com/2ITHaiXAjNcAAAAi/gif" width="300" /><br />
       <strong>Night Shift Work</strong>
     </td>
     <td align="center">
-      <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="300" /><br />
+      <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/gif" width="300" /><br />
       <strong>Software Development</strong>
     </td>
   </tr>
