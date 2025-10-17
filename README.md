@@ -19,9 +19,9 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akarsu544&show_icons=true&theme=radical" alt="Akarsu544's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsu544&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsu544&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akarsu&show_icons=true&theme=radical" alt="Akarsu's stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsu&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsu&layout=compact&theme=radical" />
 </p>
 
 ---
