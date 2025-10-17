@@ -41,8 +41,17 @@
 </p>
 
 
-<img src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif" width="400" />
-<img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="400" \>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif" width="400" />
+    <p>Night Shift Work</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="400" />
+    <p>Software Development</p>
+  </div>
+</div>
+
 
 
 
