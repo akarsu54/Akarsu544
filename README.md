@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akarsu&show_icons=true&theme=radical" alt="Akarsu's stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsu&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsu&layout=compact&theme=radical" />
+  
 </p>
 
 ---
