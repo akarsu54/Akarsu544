@@ -27,7 +27,7 @@ My goal is to become a well-rounded software engineer capable of contributing to
 ### 🧰 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,python,github" />
 </p>
 
 ---
@@ -43,6 +43,10 @@ My goal is to become a well-rounded software engineer capable of contributing to
 ---
 
 ### 🧭 Visitors:
+
+<p align="center">
+<img src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=classic" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akarsu544v&label=Profile+Views&color=brightgreen" alt="Akarsu544" />
