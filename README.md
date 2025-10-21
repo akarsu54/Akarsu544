@@ -34,15 +34,6 @@ My goal is to become a well-rounded software engineer capable of contributing to
 ---
 
 ### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akarsu&show_icons=true&theme=radical" alt="Akarsu's stats" />
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akarsu&theme=radical" />
-</p>
-
-
 <p align="center">
   <table>
     <tr>
