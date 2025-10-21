@@ -12,8 +12,7 @@
      <td align="left" width="70%" >
        <h1> About Me </h1>   
    I'm a 20-year-old Software Engineering student with a strong passion for technology, coding, and problem-solving. Currently pursuing my degree, I'm focused on building a solid foundation in software development, algorithms, and computer systems. I enjoy working on real-world projects, learning new programming languages, and staying up to date with the latest tech trends.
-   
-
+   <br/>
 My goal is to become a well-rounded software engineer capable of contributing to innovative and impactful solutions. Whether it's front-end, back-end, or full-stack development, I'm always eager to learn, collaborate, and grow in this fast-evolving field.
     </td>
     <td align="right"  width="30%" >
