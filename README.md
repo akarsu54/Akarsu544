@@ -60,7 +60,13 @@ My goal is to become a well-rounded software engineer capable of contributing to
 
 <p align="center">
   <a href="mailto:ensarakarsu0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  [<img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="60"/>](https://www.instagram.com/ensr_akrs/)
+
+
 </p>
+
+
 
 
 
